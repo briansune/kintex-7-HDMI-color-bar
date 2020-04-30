@@ -9,4 +9,4 @@ The pixel clock uses 148MHz while DDR TMDS clock is 5 times the pixel clock.
 Have fun =] ~
 
 # Some demo image:
-![Alt text](images/color_bar.jpg?raw=true "Title")
+![Alt text](images/img.jpg?raw=true "Title")
