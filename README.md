@@ -7,3 +7,6 @@ No transmission translate IC is used, while a HDMI repeator may be used to buffe
 The pixel clock uses 148MHz while DDR TMDS clock is 5 times the pixel clock.
 
 Have fun =] ~
+
+# Some demo image:
+![Alt text](images/color_bar.jpg?raw=true "Title")
