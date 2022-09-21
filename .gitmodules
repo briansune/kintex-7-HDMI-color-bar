@@ -1,0 +1,3 @@
+[submodule "Altera-Cyclone-V-HDMI"]
+	path = Altera-Cyclone-V-HDMI
+	url = https://github.com/briansune/Altera-Cyclone-V-HDMI.git
