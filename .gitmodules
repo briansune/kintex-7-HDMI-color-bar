@@ -1,3 +1,6 @@
 [submodule "Altera-Cyclone-V-HDMI"]
 	path = Altera-Cyclone-V-HDMI
 	url = https://github.com/briansune/Altera-Cyclone-V-HDMI.git
+[submodule "ZYNQ-HDMI-IP-with-Audio"]
+	path = ZYNQ-HDMI-IP-with-Audio
+	url = https://github.com/briansune/ZYNQ-HDMI-IP-with-Audio
